@@ -1,7 +1,413 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="263dd1c8-e9a3-44eb-a335-f4a62fefb812" name="Default" comment="" />
+    <list default="true" id="263dd1c8-e9a3-44eb-a335-f4a62fefb812" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/adapter/ducks/Duck.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/adapter/ducks/DuckAdapter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/adapter/ducks/DuckTestDrive.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/adapter/ducks/MallardDuck.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/adapter/ducks/Turkey.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/adapter/ducks/TurkeyAdapter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/adapter/ducks/TurkeyTestDrive.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/adapter/ducks/WildTurkey.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/adapter/iterenum/EI.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/adapter/iterenum/EnumerationIterator.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/adapter/iterenum/EnumerationIteratorTestDrive.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/adapter/iterenum/IteratorEnumeration.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/adapter/iterenum/IteratorEnumerationTestDrive.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combined/djview/BPMObserver.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combined/djview/BeatBar.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combined/djview/BeatController.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combined/djview/BeatModel.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combined/djview/BeatModelInterface.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combined/djview/BeatObserver.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combined/djview/ControllerInterface.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combined/djview/DJTestDrive.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combined/djview/DJView.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combined/djview/HeartAdapter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combined/djview/HeartController.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combined/djview/HeartModel.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combined/djview/HeartModelInterface.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combined/djview/HeartTestDrive.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/adapter/DecoyDuck.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/adapter/DuckCall.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/adapter/DuckSimulator.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/adapter/Goose.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/adapter/GooseAdapter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/adapter/MallardDuck.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/adapter/Quackable.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/adapter/RedheadDuck.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/adapter/RubberDuck.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/composite/AbstractDuckFactory.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/composite/CountingDuckFactory.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/composite/DecoyDuck.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/composite/DuckCall.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/composite/DuckFactory.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/composite/DuckSimulator.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/composite/Flock.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/composite/Goose.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/composite/GooseAdapter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/composite/MallardDuck.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/composite/QuackCounter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/composite/Quackable.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/composite/RedheadDuck.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/composite/RubberDuck.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/decorator/DecoyDuck.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/decorator/DuckCall.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/decorator/DuckSimulator.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/decorator/Goose.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/decorator/GooseAdapter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/decorator/MallardDuck.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/decorator/QuackCounter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/decorator/Quackable.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/decorator/RedheadDuck.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/decorator/RubberDuck.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/ducks/DecoyDuck.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/ducks/DuckCall.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/ducks/DuckSimulator.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/ducks/MallardDuck.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/ducks/Quackable.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/ducks/RedheadDuck.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/ducks/RubberDuck.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/factory/AbstractDuckFactory.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/factory/CountingDuckFactory.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/factory/DecoyDuck.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/factory/DuckCall.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/factory/DuckFactory.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/factory/DuckSimulator.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/factory/Goose.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/factory/GooseAdapter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/factory/MallardDuck.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/factory/QuackCounter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/factory/Quackable.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/factory/RedheadDuck.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/factory/RubberDuck.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/observer/.QuackDecorator.java.swp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/observer/AbstractDuckFactory.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/observer/CountingDuckFactory.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/observer/DecoyDuck.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/observer/DuckCall.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/observer/DuckFactory.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/observer/DuckSimulator.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/observer/Flock.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/observer/Goose.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/observer/GooseAdapter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/observer/MallardDuck.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/observer/Observable.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/observer/Observer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/observer/QuackCounter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/observer/QuackObservable.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/observer/Quackable.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/observer/Quackologist.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/observer/RedheadDuck.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/observer/RubberDuck.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/party/CeilingFan.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/party/CeilingFanHighCommand.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/party/CeilingFanMediumCommand.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/party/CeilingFanOffCommand.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/party/Command.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/party/Hottub.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/party/HottubOffCommand.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/party/HottubOnCommand.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/party/Light.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/party/LightOffCommand.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/party/LightOnCommand.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/party/LivingroomLightOffCommand.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/party/LivingroomLightOnCommand.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/party/MacroCommand.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/party/NoCommand.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/party/RemoteControl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/party/RemoteLoader.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/party/Stereo.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/party/StereoOffCommand.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/party/StereoOnCommand.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/party/StereoOnWithCDCommand.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/party/TV.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/party/TVOffCommand.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/party/TVOnCommand.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/remote/CeilingFan.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/remote/CeilingFanOffCommand.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/remote/CeilingFanOnCommand.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/remote/Command.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/remote/GarageDoor.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/remote/GarageDoorDownCommand.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/remote/GarageDoorUpCommand.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/remote/Hottub.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/remote/HottubOffCommand.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/remote/HottubOnCommand.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/remote/Light.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/remote/LightOffCommand.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/remote/LightOnCommand.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/remote/LivingroomLightOffCommand.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/remote/LivingroomLightOnCommand.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/remote/NoCommand.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/remote/RemoteControl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/remote/RemoteLoader.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/remote/Stereo.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/remote/StereoOffCommand.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/remote/StereoOnWithCDCommand.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/remote/TV.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/simpleremote/Command.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/simpleremote/GarageDoor.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/simpleremote/GarageDoorOpenCommand.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/simpleremote/Light.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/simpleremote/LightOffCommand.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/simpleremote/LightOnCommand.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/simpleremote/RemoteControlTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/simpleremote/SimpleRemoteControl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/undo/CeilingFan.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/undo/CeilingFanHighCommand.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/undo/CeilingFanLowCommand.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/undo/CeilingFanMediumCommand.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/undo/CeilingFanOffCommand.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/undo/Command.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/undo/DimmerLightOffCommand.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/undo/DimmerLightOnCommand.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/undo/Light.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/undo/LightOffCommand.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/undo/LightOnCommand.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/undo/NoCommand.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/undo/RemoteControlWithUndo.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/undo/RemoteLoader.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/composite/menu/Menu.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/composite/menu/MenuComponent.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/composite/menu/MenuItem.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/composite/menu/MenuTestDrive.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/composite/menu/Waitress.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/composite/menuiterator/CompositeIterator.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/composite/menuiterator/Menu.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/composite/menuiterator/MenuComponent.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/composite/menuiterator/MenuItem.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/composite/menuiterator/MenuTestDrive.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/composite/menuiterator/NullIterator.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/composite/menuiterator/Waitress.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/decorator/io/InputTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/decorator/io/LowerCaseInputStream.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/decorator/starbuzz/Beverage.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/decorator/starbuzz/CondimentDecorator.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/decorator/starbuzz/DarkRoast.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/decorator/starbuzz/Decaf.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/decorator/starbuzz/Espresso.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/decorator/starbuzz/HouseBlend.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/decorator/starbuzz/Milk.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/decorator/starbuzz/Mocha.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/decorator/starbuzz/Soy.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/decorator/starbuzz/StarbuzzCoffee.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/decorator/starbuzz/Whip.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/facade/hometheater/Amplifier.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/facade/hometheater/CdPlayer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/facade/hometheater/DvdPlayer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/facade/hometheater/HomeTheaterFacade.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/facade/hometheater/HomeTheaterTestDrive.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/facade/hometheater/PopcornPopper.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/facade/hometheater/Projector.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/facade/hometheater/Screen.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/facade/hometheater/TheaterLights.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/facade/hometheater/Tuner.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzaaf/BlackOlives.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzaaf/Cheese.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzaaf/CheesePizza.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzaaf/ChicagoPizzaIngredientFactory.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzaaf/ChicagoPizzaStore.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzaaf/ClamPizza.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzaaf/Clams.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzaaf/Dough.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzaaf/Eggplant.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzaaf/FreshClams.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzaaf/FrozenClams.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzaaf/Garlic.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzaaf/MarinaraSauce.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzaaf/MozzarellaCheese.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzaaf/Mushroom.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzaaf/NYPizzaIngredientFactory.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzaaf/NYPizzaStore.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzaaf/Onion.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzaaf/ParmesanCheese.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzaaf/Pepperoni.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzaaf/PepperoniPizza.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzaaf/Pizza.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzaaf/PizzaIngredientFactory.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzaaf/PizzaStore.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzaaf/PizzaTestDrive.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzaaf/PlumTomatoSauce.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzaaf/RedPepper.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzaaf/ReggianoCheese.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzaaf/Sauce.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzaaf/SlicedPepperoni.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzaaf/Spinach.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzaaf/ThickCrustDough.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzaaf/ThinCrustDough.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzaaf/VeggiePizza.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzaaf/Veggies.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzafm/ChicagoPizzaStore.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzafm/ChicagoStyleCheesePizza.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzafm/ChicagoStyleClamPizza.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzafm/ChicagoStylePepperoniPizza.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzafm/ChicagoStyleVeggiePizza.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzafm/DependentPizzaStore.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzafm/NYPizzaStore.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzafm/NYStyleCheesePizza.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzafm/NYStyleClamPizza.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzafm/NYStylePepperoniPizza.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzafm/NYStyleVeggiePizza.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzafm/Pizza.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzafm/PizzaStore.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzafm/PizzaTestDrive.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzas/CheesePizza.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzas/ClamPizza.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzas/PepperoniPizza.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzas/Pizza.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzas/PizzaStore.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzas/PizzaTestDrive.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzas/SimplePizzaFactory.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzas/VeggiePizza.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/iterator/dinermerger/AlternatingDinerMenuIterator.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/iterator/dinermerger/ArrayIterator.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/iterator/dinermerger/ArrayListIterator.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/iterator/dinermerger/DinerMenu.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/iterator/dinermerger/DinerMenuIterator.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/iterator/dinermerger/Iterator.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/iterator/dinermerger/Menu.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/iterator/dinermerger/MenuItem.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/iterator/dinermerger/MenuTestDrive.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/iterator/dinermerger/PancakeHouseMenu.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/iterator/dinermerger/PancakeHouseMenuIterator.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/iterator/dinermerger/Waitress.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/iterator/dinermergercafe/AlternatingDinerMenuIterator.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/iterator/dinermergercafe/CafeMenu.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/iterator/dinermergercafe/DinerMenu.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/iterator/dinermergercafe/DinerMenuIterator.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/iterator/dinermergercafe/Menu.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/iterator/dinermergercafe/MenuItem.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/iterator/dinermergercafe/MenuTestDrive.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/iterator/dinermergercafe/PancakeHouseMenu.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/iterator/dinermergercafe/Waitress.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/iterator/dinermergeri/AlternatingDinerMenuIterator.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/iterator/dinermergeri/DinerMenu.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/iterator/dinermergeri/DinerMenuIterator.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/iterator/dinermergeri/Menu.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/iterator/dinermergeri/MenuItem.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/iterator/dinermergeri/MenuTestDrive.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/iterator/dinermergeri/PancakeHouseMenu.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/iterator/dinermergeri/Waitress.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/iterator/transition/Menu.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/iterator/transition/MenuItem.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/iterator/transition/Waitress.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/observer/swing/SwingObserverExample.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/observer/weather/CurrentConditionsDisplay.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/observer/weather/DisplayElement.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/observer/weather/ForecastDisplay.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/observer/weather/HeatIndexDisplay.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/observer/weather/Observer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/observer/weather/StatisticsDisplay.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/observer/weather/Subject.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/observer/weather/WeatherData.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/observer/weather/WeatherStation.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/observer/weather/WeatherStationHeatIndex.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/observer/weatherobservable/CurrentConditionsDisplay.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/observer/weatherobservable/DisplayElement.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/observer/weatherobservable/ForecastDisplay.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/observer/weatherobservable/HeatIndexDisplay.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/observer/weatherobservable/StatisticsDisplay.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/observer/weatherobservable/WeatherData.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/observer/weatherobservable/WeatherStation.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/observer/weatherobservable/WeatherStationHeatIndex.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/proxy/gumball/GumballMachine.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/proxy/gumball/GumballMachineRemote.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/proxy/gumball/GumballMachineTestDrive.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/proxy/gumball/GumballMonitor.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/proxy/gumball/GumballMonitorTestDrive.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/proxy/gumball/HasQuarterState.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/proxy/gumball/NoQuarterState.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/proxy/gumball/SoldOutState.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/proxy/gumball/SoldState.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/proxy/gumball/State.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/proxy/gumball/WinnerState.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/proxy/gumballmonitor/GumballMachine.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/proxy/gumballmonitor/GumballMachineTestDrive.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/proxy/gumballmonitor/GumballMonitor.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/proxy/gumballmonitor/HasQuarterState.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/proxy/gumballmonitor/NoQuarterState.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/proxy/gumballmonitor/SoldOutState.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/proxy/gumballmonitor/SoldState.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/proxy/gumballmonitor/State.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/proxy/gumballmonitor/WinnerState.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/proxy/javaproxy/MatchMakingTestDrive.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/proxy/javaproxy/NonOwnerInvocationHandler.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/proxy/javaproxy/OwnerInvocationHandler.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/proxy/javaproxy/PersonBean.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/proxy/javaproxy/PersonBeanImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/proxy/virtualproxy/ImageComponent.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/proxy/virtualproxy/ImageProxy.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/proxy/virtualproxy/ImageProxyTestDrive.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/singleton/chocolate/ChocolateBoiler.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/singleton/chocolate/ChocolateController.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/singleton/classic/Singleton.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/singleton/dcl/Singleton.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/singleton/dcl/SingletonClient.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/singleton/stat/Singleton.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/singleton/stat/SingletonClient.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/singleton/subclass/CoolerSingleton.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/singleton/subclass/HotterSingleton.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/singleton/subclass/Singleton.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/singleton/subclass/SingletonTestDrive.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/singleton/threadsafe/Singleton.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/state/gumball/GumballMachine.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/state/gumball/GumballMachineTestDrive.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/state/gumballstate/GumballMachine.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/state/gumballstate/GumballMachineTestDrive.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/state/gumballstate/HasQuarterState.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/state/gumballstate/NoQuarterState.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/state/gumballstate/SoldOutState.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/state/gumballstate/SoldState.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/state/gumballstate/State.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/state/gumballstatewinner/GumballMachine.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/state/gumballstatewinner/GumballMachineTestDrive.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/state/gumballstatewinner/HasQuarterState.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/state/gumballstatewinner/NoQuarterState.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/state/gumballstatewinner/SoldOutState.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/state/gumballstatewinner/SoldState.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/state/gumballstatewinner/State.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/state/gumballstatewinner/WinnerState.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/strategy/DecoyDuck.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/strategy/Duck.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/strategy/FakeQuack.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/strategy/FlyBehavior.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/strategy/FlyNoWay.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/strategy/FlyRocketPowered.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/strategy/FlyWithWings.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/strategy/MallardDuck.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/strategy/MiniDuckSimulator.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/strategy/MiniDuckSimulator1.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/strategy/ModelDuck.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/strategy/MuteQuack.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/strategy/Quack.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/strategy/QuackBehavior.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/strategy/RedHeadDuck.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/strategy/RubberDuck.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/strategy/Squeak.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/templatemethod/applet/AppletSource.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/templatemethod/applet/MyApplet.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/templatemethod/barista/BeverageTestDrive.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/templatemethod/barista/CaffeineBeverage.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/templatemethod/barista/CaffeineBeverageWithHook.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/templatemethod/barista/Coffee.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/templatemethod/barista/CoffeeWithHook.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/templatemethod/barista/Tea.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/templatemethod/barista/TeaWithHook.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/templatemethod/frame/MyFrame.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/templatemethod/simplebarista/Barista.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/templatemethod/simplebarista/Coffee.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/templatemethod/simplebarista/Tea.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/templatemethod/sort/Duck.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/templatemethod/sort/DuckSortTestDrive.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+    </list>
     <ignored path="HF_DP.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/bin/" />
@@ -12,7 +418,6 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
@@ -20,10 +425,50 @@
   <component name="FavoritesManager">
     <favorites_list name="HF_DP" />
   </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="4" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="4" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="30">
+                <caret line="2" column="1" lean-forward="false" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$/../DesignPatterns" value="2922697440000" />
+        <entry key="$PROJECT_DIR$" value="2922697440000" />
         <entry key="$PROJECT_DIR$/../LearningSpringBoot" value="1449631006000" />
         <entry key="$PROJECT_DIR$/../database-demo" value="1449798138000" />
         <entry key="$PROJECT_DIR$/../network-monitor" value="1449783954000" />
@@ -37,25 +482,25 @@
       <projects_view />
     </option>
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" />
   <component name="JsBuildToolPackageJson" detection-done="true" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
+    <option name="x" value="101" />
+    <option name="y" value="29" />
     <option name="width" value="1440" />
-    <option name="height" value="820" />
-  </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
-    <OptionsSetting value="true" id="Add" />
-    <OptionsSetting value="true" id="Remove" />
-    <OptionsSetting value="true" id="Checkout" />
-    <OptionsSetting value="true" id="Update" />
-    <OptionsSetting value="true" id="Status" />
-    <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
-    <ConfirmationsSetting value="0" id="Remove" />
+    <option name="height" value="825" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -80,39 +525,15 @@
               <option name="myItemId" value="HF_DP" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="HF_DP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HeadFirstDesignPatterns" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HF_DP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HeadFirstDesignPatterns" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="headfirst" />
+              <option name="myItemId" value="DesignPatterns" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -127,6 +548,62 @@
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
       <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
       <method />
     </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -152,6 +629,22 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -173,12 +666,67 @@
       <patterns />
       <method />
     </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -209,18 +757,51 @@
       <listeners />
       <method />
     </configuration>
+    <configuration default="true" type="executeSpecs" factoryName="Gauge Execution">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="" />
+      <envMap />
+      <setting name="rowsRange" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
   </component>
   <component name="SbtLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
     </option>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="263dd1c8-e9a3-44eb-a335-f4a62fefb812" name="Default" comment="" />
       <created>1470748110552</created>
       <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
       <updated>1470748110552</updated>
       <workItem from="1470748114067" duration="9000" />
     </task>
@@ -230,31 +811,37 @@
     <option name="totallyTimeSpent" value="9000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="820" extended-state="6" />
-    <editor active="false" />
+    <frame x="101" y="29" width="1440" height="825" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3287858" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2532189" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -263,5 +850,38 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="4" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="4" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="30">
+            <caret line="2" column="1" lean-forward="false" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
