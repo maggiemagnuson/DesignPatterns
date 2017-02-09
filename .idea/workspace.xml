@@ -2,415 +2,413 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="263dd1c8-e9a3-44eb-a335-f4a62fefb812" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/adapter/ducks/Duck.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/adapter/ducks/DuckAdapter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/adapter/ducks/DuckTestDrive.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/adapter/ducks/MallardDuck.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/adapter/ducks/Turkey.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/adapter/ducks/TurkeyAdapter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/adapter/ducks/TurkeyTestDrive.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/adapter/ducks/WildTurkey.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/adapter/iterenum/EI.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/adapter/iterenum/EnumerationIterator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/adapter/iterenum/EnumerationIteratorTestDrive.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/adapter/iterenum/IteratorEnumeration.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/adapter/iterenum/IteratorEnumerationTestDrive.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combined/djview/BPMObserver.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combined/djview/BeatBar.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combined/djview/BeatController.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combined/djview/BeatModel.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combined/djview/BeatModelInterface.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combined/djview/BeatObserver.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combined/djview/ControllerInterface.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combined/djview/DJTestDrive.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combined/djview/DJView.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combined/djview/HeartAdapter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combined/djview/HeartController.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combined/djview/HeartModel.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combined/djview/HeartModelInterface.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combined/djview/HeartTestDrive.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/adapter/DecoyDuck.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/adapter/DuckCall.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/adapter/DuckSimulator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/adapter/Goose.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/adapter/GooseAdapter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/adapter/MallardDuck.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/adapter/Quackable.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/adapter/RedheadDuck.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/adapter/RubberDuck.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/composite/AbstractDuckFactory.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/composite/CountingDuckFactory.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/composite/DecoyDuck.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/composite/DuckCall.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/composite/DuckFactory.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/composite/DuckSimulator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/composite/Flock.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/composite/Goose.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/composite/GooseAdapter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/composite/MallardDuck.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/composite/QuackCounter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/composite/Quackable.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/composite/RedheadDuck.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/composite/RubberDuck.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/decorator/DecoyDuck.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/decorator/DuckCall.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/decorator/DuckSimulator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/decorator/Goose.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/decorator/GooseAdapter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/decorator/MallardDuck.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/decorator/QuackCounter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/decorator/Quackable.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/decorator/RedheadDuck.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/decorator/RubberDuck.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/ducks/DecoyDuck.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/ducks/DuckCall.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/ducks/DuckSimulator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/ducks/MallardDuck.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/ducks/Quackable.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/ducks/RedheadDuck.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/ducks/RubberDuck.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/factory/AbstractDuckFactory.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/factory/CountingDuckFactory.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/factory/DecoyDuck.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/factory/DuckCall.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/factory/DuckFactory.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/factory/DuckSimulator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/factory/Goose.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/factory/GooseAdapter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/factory/MallardDuck.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/factory/QuackCounter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/factory/Quackable.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/factory/RedheadDuck.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/factory/RubberDuck.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/observer/.QuackDecorator.java.swp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/observer/AbstractDuckFactory.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/observer/CountingDuckFactory.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/observer/DecoyDuck.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/observer/DuckCall.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/observer/DuckFactory.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/observer/DuckSimulator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/observer/Flock.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/observer/Goose.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/observer/GooseAdapter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/observer/MallardDuck.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/observer/Observable.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/observer/Observer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/observer/QuackCounter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/observer/QuackObservable.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/observer/Quackable.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/observer/Quackologist.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/observer/RedheadDuck.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/combining/observer/RubberDuck.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/party/CeilingFan.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/party/CeilingFanHighCommand.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/party/CeilingFanMediumCommand.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/party/CeilingFanOffCommand.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/party/Command.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/party/Hottub.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/party/HottubOffCommand.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/party/HottubOnCommand.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/party/Light.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/party/LightOffCommand.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/party/LightOnCommand.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/party/LivingroomLightOffCommand.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/party/LivingroomLightOnCommand.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/party/MacroCommand.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/party/NoCommand.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/party/RemoteControl.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/party/RemoteLoader.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/party/Stereo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/party/StereoOffCommand.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/party/StereoOnCommand.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/party/StereoOnWithCDCommand.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/party/TV.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/party/TVOffCommand.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/party/TVOnCommand.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/remote/CeilingFan.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/remote/CeilingFanOffCommand.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/remote/CeilingFanOnCommand.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/remote/Command.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/remote/GarageDoor.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/remote/GarageDoorDownCommand.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/remote/GarageDoorUpCommand.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/remote/Hottub.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/remote/HottubOffCommand.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/remote/HottubOnCommand.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/remote/Light.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/remote/LightOffCommand.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/remote/LightOnCommand.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/remote/LivingroomLightOffCommand.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/remote/LivingroomLightOnCommand.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/remote/NoCommand.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/remote/RemoteControl.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/remote/RemoteLoader.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/remote/Stereo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/remote/StereoOffCommand.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/remote/StereoOnWithCDCommand.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/remote/TV.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/simpleremote/Command.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/simpleremote/GarageDoor.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/simpleremote/GarageDoorOpenCommand.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/simpleremote/Light.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/simpleremote/LightOffCommand.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/simpleremote/LightOnCommand.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/simpleremote/RemoteControlTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/simpleremote/SimpleRemoteControl.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/undo/CeilingFan.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/undo/CeilingFanHighCommand.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/undo/CeilingFanLowCommand.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/undo/CeilingFanMediumCommand.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/undo/CeilingFanOffCommand.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/undo/Command.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/undo/DimmerLightOffCommand.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/undo/DimmerLightOnCommand.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/undo/Light.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/undo/LightOffCommand.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/undo/LightOnCommand.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/undo/NoCommand.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/undo/RemoteControlWithUndo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/command/undo/RemoteLoader.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/composite/menu/Menu.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/composite/menu/MenuComponent.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/composite/menu/MenuItem.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/composite/menu/MenuTestDrive.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/composite/menu/Waitress.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/composite/menuiterator/CompositeIterator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/composite/menuiterator/Menu.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/composite/menuiterator/MenuComponent.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/composite/menuiterator/MenuItem.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/composite/menuiterator/MenuTestDrive.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/composite/menuiterator/NullIterator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/composite/menuiterator/Waitress.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/decorator/io/InputTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/decorator/io/LowerCaseInputStream.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/decorator/starbuzz/Beverage.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/decorator/starbuzz/CondimentDecorator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/decorator/starbuzz/DarkRoast.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/decorator/starbuzz/Decaf.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/decorator/starbuzz/Espresso.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/decorator/starbuzz/HouseBlend.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/decorator/starbuzz/Milk.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/decorator/starbuzz/Mocha.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/decorator/starbuzz/Soy.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/decorator/starbuzz/StarbuzzCoffee.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/decorator/starbuzz/Whip.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/facade/hometheater/Amplifier.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/facade/hometheater/CdPlayer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/facade/hometheater/DvdPlayer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/facade/hometheater/HomeTheaterFacade.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/facade/hometheater/HomeTheaterTestDrive.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/facade/hometheater/PopcornPopper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/facade/hometheater/Projector.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/facade/hometheater/Screen.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/facade/hometheater/TheaterLights.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/facade/hometheater/Tuner.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzaaf/BlackOlives.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzaaf/Cheese.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzaaf/CheesePizza.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzaaf/ChicagoPizzaIngredientFactory.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzaaf/ChicagoPizzaStore.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzaaf/ClamPizza.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzaaf/Clams.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzaaf/Dough.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzaaf/Eggplant.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzaaf/FreshClams.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzaaf/FrozenClams.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzaaf/Garlic.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzaaf/MarinaraSauce.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzaaf/MozzarellaCheese.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzaaf/Mushroom.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzaaf/NYPizzaIngredientFactory.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzaaf/NYPizzaStore.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzaaf/Onion.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzaaf/ParmesanCheese.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzaaf/Pepperoni.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzaaf/PepperoniPizza.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzaaf/Pizza.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzaaf/PizzaIngredientFactory.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzaaf/PizzaStore.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzaaf/PizzaTestDrive.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzaaf/PlumTomatoSauce.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzaaf/RedPepper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzaaf/ReggianoCheese.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzaaf/Sauce.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzaaf/SlicedPepperoni.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzaaf/Spinach.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzaaf/ThickCrustDough.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzaaf/ThinCrustDough.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzaaf/VeggiePizza.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzaaf/Veggies.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzafm/ChicagoPizzaStore.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzafm/ChicagoStyleCheesePizza.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzafm/ChicagoStyleClamPizza.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzafm/ChicagoStylePepperoniPizza.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzafm/ChicagoStyleVeggiePizza.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzafm/DependentPizzaStore.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzafm/NYPizzaStore.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzafm/NYStyleCheesePizza.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzafm/NYStyleClamPizza.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzafm/NYStylePepperoniPizza.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzafm/NYStyleVeggiePizza.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzafm/Pizza.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzafm/PizzaStore.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzafm/PizzaTestDrive.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzas/CheesePizza.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzas/ClamPizza.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzas/PepperoniPizza.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzas/Pizza.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzas/PizzaStore.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzas/PizzaTestDrive.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzas/SimplePizzaFactory.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/factory/pizzas/VeggiePizza.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/iterator/dinermerger/AlternatingDinerMenuIterator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/iterator/dinermerger/ArrayIterator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/iterator/dinermerger/ArrayListIterator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/iterator/dinermerger/DinerMenu.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/iterator/dinermerger/DinerMenuIterator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/iterator/dinermerger/Iterator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/iterator/dinermerger/Menu.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/iterator/dinermerger/MenuItem.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/iterator/dinermerger/MenuTestDrive.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/iterator/dinermerger/PancakeHouseMenu.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/iterator/dinermerger/PancakeHouseMenuIterator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/iterator/dinermerger/Waitress.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/iterator/dinermergercafe/AlternatingDinerMenuIterator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/iterator/dinermergercafe/CafeMenu.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/iterator/dinermergercafe/DinerMenu.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/iterator/dinermergercafe/DinerMenuIterator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/iterator/dinermergercafe/Menu.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/iterator/dinermergercafe/MenuItem.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/iterator/dinermergercafe/MenuTestDrive.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/iterator/dinermergercafe/PancakeHouseMenu.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/iterator/dinermergercafe/Waitress.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/iterator/dinermergeri/AlternatingDinerMenuIterator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/iterator/dinermergeri/DinerMenu.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/iterator/dinermergeri/DinerMenuIterator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/iterator/dinermergeri/Menu.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/iterator/dinermergeri/MenuItem.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/iterator/dinermergeri/MenuTestDrive.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/iterator/dinermergeri/PancakeHouseMenu.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/iterator/dinermergeri/Waitress.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/iterator/transition/Menu.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/iterator/transition/MenuItem.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/iterator/transition/Waitress.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/observer/swing/SwingObserverExample.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/observer/weather/CurrentConditionsDisplay.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/observer/weather/DisplayElement.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/observer/weather/ForecastDisplay.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/observer/weather/HeatIndexDisplay.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/observer/weather/Observer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/observer/weather/StatisticsDisplay.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/observer/weather/Subject.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/observer/weather/WeatherData.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/observer/weather/WeatherStation.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/observer/weather/WeatherStationHeatIndex.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/observer/weatherobservable/CurrentConditionsDisplay.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/observer/weatherobservable/DisplayElement.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/observer/weatherobservable/ForecastDisplay.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/observer/weatherobservable/HeatIndexDisplay.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/observer/weatherobservable/StatisticsDisplay.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/observer/weatherobservable/WeatherData.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/observer/weatherobservable/WeatherStation.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/observer/weatherobservable/WeatherStationHeatIndex.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/proxy/gumball/GumballMachine.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/proxy/gumball/GumballMachineRemote.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/proxy/gumball/GumballMachineTestDrive.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/proxy/gumball/GumballMonitor.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/proxy/gumball/GumballMonitorTestDrive.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/proxy/gumball/HasQuarterState.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/proxy/gumball/NoQuarterState.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/proxy/gumball/SoldOutState.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/proxy/gumball/SoldState.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/proxy/gumball/State.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/proxy/gumball/WinnerState.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/proxy/gumballmonitor/GumballMachine.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/proxy/gumballmonitor/GumballMachineTestDrive.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/proxy/gumballmonitor/GumballMonitor.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/proxy/gumballmonitor/HasQuarterState.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/proxy/gumballmonitor/NoQuarterState.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/proxy/gumballmonitor/SoldOutState.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/proxy/gumballmonitor/SoldState.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/proxy/gumballmonitor/State.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/proxy/gumballmonitor/WinnerState.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/proxy/javaproxy/MatchMakingTestDrive.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/proxy/javaproxy/NonOwnerInvocationHandler.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/proxy/javaproxy/OwnerInvocationHandler.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/proxy/javaproxy/PersonBean.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/proxy/javaproxy/PersonBeanImpl.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/proxy/virtualproxy/ImageComponent.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/proxy/virtualproxy/ImageProxy.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/proxy/virtualproxy/ImageProxyTestDrive.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/singleton/chocolate/ChocolateBoiler.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/singleton/chocolate/ChocolateController.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/singleton/classic/Singleton.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/singleton/dcl/Singleton.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/singleton/dcl/SingletonClient.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/singleton/stat/Singleton.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/singleton/stat/SingletonClient.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/singleton/subclass/CoolerSingleton.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/singleton/subclass/HotterSingleton.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/singleton/subclass/Singleton.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/singleton/subclass/SingletonTestDrive.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/singleton/threadsafe/Singleton.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/state/gumball/GumballMachine.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/state/gumball/GumballMachineTestDrive.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/state/gumballstate/GumballMachine.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/state/gumballstate/GumballMachineTestDrive.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/state/gumballstate/HasQuarterState.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/state/gumballstate/NoQuarterState.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/state/gumballstate/SoldOutState.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/state/gumballstate/SoldState.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/state/gumballstate/State.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/state/gumballstatewinner/GumballMachine.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/state/gumballstatewinner/GumballMachineTestDrive.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/state/gumballstatewinner/HasQuarterState.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/state/gumballstatewinner/NoQuarterState.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/state/gumballstatewinner/SoldOutState.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/state/gumballstatewinner/SoldState.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/state/gumballstatewinner/State.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/state/gumballstatewinner/WinnerState.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/strategy/DecoyDuck.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/strategy/Duck.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/strategy/FakeQuack.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/strategy/FlyBehavior.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/strategy/FlyNoWay.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/strategy/FlyRocketPowered.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/strategy/FlyWithWings.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/strategy/MallardDuck.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/strategy/MiniDuckSimulator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/strategy/MiniDuckSimulator1.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/strategy/ModelDuck.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/strategy/MuteQuack.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/strategy/Quack.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/strategy/QuackBehavior.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/strategy/RedHeadDuck.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/strategy/RubberDuck.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/strategy/Squeak.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/templatemethod/applet/AppletSource.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/templatemethod/applet/MyApplet.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/templatemethod/barista/BeverageTestDrive.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/templatemethod/barista/CaffeineBeverage.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/templatemethod/barista/CaffeineBeverageWithHook.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/templatemethod/barista/Coffee.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/templatemethod/barista/CoffeeWithHook.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/templatemethod/barista/Tea.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/templatemethod/barista/TeaWithHook.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/templatemethod/frame/MyFrame.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/templatemethod/simplebarista/Barista.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/templatemethod/simplebarista/Coffee.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/templatemethod/simplebarista/Tea.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/templatemethod/sort/Duck.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/headfirst/templatemethod/sort/DuckSortTestDrive.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combining/observer/.QuackDecorator.java.swp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/adapter/ducks/Duck.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/adapter/ducks/DuckAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/adapter/ducks/DuckTestDrive.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/adapter/ducks/MallardDuck.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/adapter/ducks/Turkey.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/adapter/ducks/TurkeyAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/adapter/ducks/TurkeyTestDrive.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/adapter/ducks/WildTurkey.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/adapter/iterenum/EI.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/adapter/iterenum/EnumerationIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/adapter/iterenum/EnumerationIteratorTestDrive.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/adapter/iterenum/IteratorEnumeration.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/adapter/iterenum/IteratorEnumerationTestDrive.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combined/djview/BPMObserver.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combined/djview/BeatBar.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combined/djview/BeatController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combined/djview/BeatModel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combined/djview/BeatModelInterface.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combined/djview/BeatObserver.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combined/djview/ControllerInterface.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combined/djview/DJTestDrive.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combined/djview/DJView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combined/djview/HeartAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combined/djview/HeartController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combined/djview/HeartModel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combined/djview/HeartModelInterface.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combined/djview/HeartTestDrive.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combining/adapter/DecoyDuck.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combining/adapter/DuckCall.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combining/adapter/DuckSimulator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combining/adapter/Goose.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combining/adapter/GooseAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combining/adapter/MallardDuck.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combining/adapter/Quackable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combining/adapter/RedheadDuck.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combining/adapter/RubberDuck.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combining/composite/AbstractDuckFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combining/composite/CountingDuckFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combining/composite/DecoyDuck.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combining/composite/DuckCall.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combining/composite/DuckFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combining/composite/DuckSimulator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combining/composite/Flock.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combining/composite/Goose.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combining/composite/GooseAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combining/composite/MallardDuck.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combining/composite/QuackCounter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combining/composite/Quackable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combining/composite/RedheadDuck.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combining/composite/RubberDuck.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combining/decorator/DecoyDuck.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combining/decorator/DuckCall.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combining/decorator/DuckSimulator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combining/decorator/Goose.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combining/decorator/GooseAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combining/decorator/MallardDuck.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combining/decorator/QuackCounter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combining/decorator/Quackable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combining/decorator/RedheadDuck.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combining/decorator/RubberDuck.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combining/ducks/DecoyDuck.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combining/ducks/DuckCall.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combining/ducks/DuckSimulator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combining/ducks/MallardDuck.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combining/ducks/Quackable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combining/ducks/RedheadDuck.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combining/ducks/RubberDuck.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combining/factory/AbstractDuckFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combining/factory/CountingDuckFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combining/factory/DecoyDuck.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combining/factory/DuckCall.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combining/factory/DuckFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combining/factory/DuckSimulator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combining/factory/Goose.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combining/factory/GooseAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combining/factory/MallardDuck.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combining/factory/QuackCounter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combining/factory/Quackable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combining/factory/RedheadDuck.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combining/factory/RubberDuck.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combining/observer/AbstractDuckFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combining/observer/CountingDuckFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combining/observer/DecoyDuck.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combining/observer/DuckCall.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combining/observer/DuckFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combining/observer/DuckSimulator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combining/observer/Flock.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combining/observer/Goose.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combining/observer/GooseAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combining/observer/MallardDuck.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combining/observer/Observable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combining/observer/Observer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combining/observer/QuackCounter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combining/observer/QuackObservable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combining/observer/Quackable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combining/observer/Quackologist.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combining/observer/RedheadDuck.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/combining/observer/RubberDuck.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/command/party/CeilingFan.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/command/party/CeilingFanHighCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/command/party/CeilingFanMediumCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/command/party/CeilingFanOffCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/command/party/Command.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/command/party/Hottub.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/command/party/HottubOffCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/command/party/HottubOnCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/command/party/Light.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/command/party/LightOffCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/command/party/LightOnCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/command/party/LivingroomLightOffCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/command/party/LivingroomLightOnCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/command/party/MacroCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/command/party/NoCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/command/party/RemoteControl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/command/party/RemoteLoader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/command/party/Stereo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/command/party/StereoOffCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/command/party/StereoOnCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/command/party/StereoOnWithCDCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/command/party/TV.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/command/party/TVOffCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/command/party/TVOnCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/command/remote/CeilingFan.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/command/remote/CeilingFanOffCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/command/remote/CeilingFanOnCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/command/remote/Command.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/command/remote/GarageDoor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/command/remote/GarageDoorDownCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/command/remote/GarageDoorUpCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/command/remote/Hottub.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/command/remote/HottubOffCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/command/remote/HottubOnCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/command/remote/Light.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/command/remote/LightOffCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/command/remote/LightOnCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/command/remote/LivingroomLightOffCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/command/remote/LivingroomLightOnCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/command/remote/NoCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/command/remote/RemoteControl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/command/remote/RemoteLoader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/command/remote/Stereo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/command/remote/StereoOffCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/command/remote/StereoOnWithCDCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/command/remote/TV.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/command/simpleremote/Command.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/command/simpleremote/GarageDoor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/command/simpleremote/GarageDoorOpenCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/command/simpleremote/Light.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/command/simpleremote/LightOffCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/command/simpleremote/LightOnCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/command/simpleremote/RemoteControlTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/command/simpleremote/SimpleRemoteControl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/command/undo/CeilingFan.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/command/undo/CeilingFanHighCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/command/undo/CeilingFanLowCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/command/undo/CeilingFanMediumCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/command/undo/CeilingFanOffCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/command/undo/Command.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/command/undo/DimmerLightOffCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/command/undo/DimmerLightOnCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/command/undo/Light.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/command/undo/LightOffCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/command/undo/LightOnCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/command/undo/NoCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/command/undo/RemoteControlWithUndo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/command/undo/RemoteLoader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/composite/menu/Menu.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/composite/menu/MenuComponent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/composite/menu/MenuItem.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/composite/menu/MenuTestDrive.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/composite/menu/Waitress.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/composite/menuiterator/CompositeIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/composite/menuiterator/Menu.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/composite/menuiterator/MenuComponent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/composite/menuiterator/MenuItem.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/composite/menuiterator/MenuTestDrive.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/composite/menuiterator/NullIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/composite/menuiterator/Waitress.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/decorator/io/InputTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/decorator/io/LowerCaseInputStream.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/decorator/starbuzz/Beverage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/decorator/starbuzz/CondimentDecorator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/decorator/starbuzz/DarkRoast.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/decorator/starbuzz/Decaf.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/decorator/starbuzz/Espresso.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/decorator/starbuzz/HouseBlend.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/decorator/starbuzz/Milk.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/decorator/starbuzz/Mocha.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/decorator/starbuzz/Soy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/decorator/starbuzz/StarbuzzCoffee.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/decorator/starbuzz/Whip.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/facade/hometheater/Amplifier.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/facade/hometheater/CdPlayer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/facade/hometheater/DvdPlayer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/facade/hometheater/HomeTheaterFacade.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/facade/hometheater/HomeTheaterTestDrive.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/facade/hometheater/PopcornPopper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/facade/hometheater/Projector.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/facade/hometheater/Screen.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/facade/hometheater/TheaterLights.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/facade/hometheater/Tuner.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/factory/pizzaaf/BlackOlives.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/factory/pizzaaf/Cheese.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/factory/pizzaaf/CheesePizza.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/factory/pizzaaf/ChicagoPizzaIngredientFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/factory/pizzaaf/ChicagoPizzaStore.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/factory/pizzaaf/ClamPizza.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/factory/pizzaaf/Clams.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/factory/pizzaaf/Dough.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/factory/pizzaaf/Eggplant.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/factory/pizzaaf/FreshClams.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/factory/pizzaaf/FrozenClams.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/factory/pizzaaf/Garlic.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/factory/pizzaaf/MarinaraSauce.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/factory/pizzaaf/MozzarellaCheese.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/factory/pizzaaf/Mushroom.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/factory/pizzaaf/NYPizzaIngredientFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/factory/pizzaaf/NYPizzaStore.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/factory/pizzaaf/Onion.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/factory/pizzaaf/ParmesanCheese.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/factory/pizzaaf/Pepperoni.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/factory/pizzaaf/PepperoniPizza.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/factory/pizzaaf/Pizza.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/factory/pizzaaf/PizzaIngredientFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/factory/pizzaaf/PizzaStore.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/factory/pizzaaf/PizzaTestDrive.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/factory/pizzaaf/PlumTomatoSauce.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/factory/pizzaaf/RedPepper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/factory/pizzaaf/ReggianoCheese.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/factory/pizzaaf/Sauce.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/factory/pizzaaf/SlicedPepperoni.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/factory/pizzaaf/Spinach.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/factory/pizzaaf/ThickCrustDough.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/factory/pizzaaf/ThinCrustDough.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/factory/pizzaaf/VeggiePizza.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/factory/pizzaaf/Veggies.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/factory/pizzafm/ChicagoPizzaStore.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/factory/pizzafm/ChicagoStyleCheesePizza.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/factory/pizzafm/ChicagoStyleClamPizza.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/factory/pizzafm/ChicagoStylePepperoniPizza.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/factory/pizzafm/ChicagoStyleVeggiePizza.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/factory/pizzafm/DependentPizzaStore.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/factory/pizzafm/NYPizzaStore.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/factory/pizzafm/NYStyleCheesePizza.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/factory/pizzafm/NYStyleClamPizza.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/factory/pizzafm/NYStylePepperoniPizza.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/factory/pizzafm/NYStyleVeggiePizza.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/factory/pizzafm/Pizza.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/factory/pizzafm/PizzaStore.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/factory/pizzafm/PizzaTestDrive.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/factory/pizzas/CheesePizza.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/factory/pizzas/ClamPizza.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/factory/pizzas/PepperoniPizza.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/factory/pizzas/Pizza.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/factory/pizzas/PizzaStore.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/factory/pizzas/PizzaTestDrive.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/factory/pizzas/SimplePizzaFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/factory/pizzas/VeggiePizza.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/iterator/dinermerger/AlternatingDinerMenuIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/iterator/dinermerger/ArrayIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/iterator/dinermerger/ArrayListIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/iterator/dinermerger/DinerMenu.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/iterator/dinermerger/DinerMenuIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/iterator/dinermerger/Iterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/iterator/dinermerger/Menu.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/iterator/dinermerger/MenuItem.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/iterator/dinermerger/MenuTestDrive.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/iterator/dinermerger/PancakeHouseMenu.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/iterator/dinermerger/PancakeHouseMenuIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/iterator/dinermerger/Waitress.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/iterator/dinermergercafe/AlternatingDinerMenuIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/iterator/dinermergercafe/CafeMenu.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/iterator/dinermergercafe/DinerMenu.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/iterator/dinermergercafe/DinerMenuIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/iterator/dinermergercafe/Menu.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/iterator/dinermergercafe/MenuItem.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/iterator/dinermergercafe/MenuTestDrive.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/iterator/dinermergercafe/PancakeHouseMenu.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/iterator/dinermergercafe/Waitress.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/iterator/dinermergeri/AlternatingDinerMenuIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/iterator/dinermergeri/DinerMenu.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/iterator/dinermergeri/DinerMenuIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/iterator/dinermergeri/Menu.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/iterator/dinermergeri/MenuItem.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/iterator/dinermergeri/MenuTestDrive.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/iterator/dinermergeri/PancakeHouseMenu.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/iterator/dinermergeri/Waitress.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/iterator/transition/Menu.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/iterator/transition/MenuItem.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/iterator/transition/Waitress.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/observer/swing/SwingObserverExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/observer/weather/CurrentConditionsDisplay.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/observer/weather/DisplayElement.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/observer/weather/ForecastDisplay.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/observer/weather/HeatIndexDisplay.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/observer/weather/Observer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/observer/weather/StatisticsDisplay.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/observer/weather/Subject.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/observer/weather/WeatherData.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/observer/weather/WeatherStation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/observer/weather/WeatherStationHeatIndex.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/observer/weatherobservable/CurrentConditionsDisplay.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/observer/weatherobservable/DisplayElement.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/observer/weatherobservable/ForecastDisplay.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/observer/weatherobservable/HeatIndexDisplay.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/observer/weatherobservable/StatisticsDisplay.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/observer/weatherobservable/WeatherData.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/observer/weatherobservable/WeatherStation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/observer/weatherobservable/WeatherStationHeatIndex.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/proxy/gumball/GumballMachine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/proxy/gumball/GumballMachineRemote.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/proxy/gumball/GumballMachineTestDrive.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/proxy/gumball/GumballMonitor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/proxy/gumball/GumballMonitorTestDrive.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/proxy/gumball/HasQuarterState.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/proxy/gumball/NoQuarterState.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/proxy/gumball/SoldOutState.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/proxy/gumball/SoldState.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/proxy/gumball/State.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/proxy/gumball/WinnerState.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/proxy/gumballmonitor/GumballMachine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/proxy/gumballmonitor/GumballMachineTestDrive.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/proxy/gumballmonitor/GumballMonitor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/proxy/gumballmonitor/HasQuarterState.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/proxy/gumballmonitor/NoQuarterState.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/proxy/gumballmonitor/SoldOutState.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/proxy/gumballmonitor/SoldState.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/proxy/gumballmonitor/State.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/proxy/gumballmonitor/WinnerState.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/proxy/javaproxy/MatchMakingTestDrive.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/proxy/javaproxy/NonOwnerInvocationHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/proxy/javaproxy/OwnerInvocationHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/proxy/javaproxy/PersonBean.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/proxy/javaproxy/PersonBeanImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/proxy/virtualproxy/ImageComponent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/proxy/virtualproxy/ImageProxy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/proxy/virtualproxy/ImageProxyTestDrive.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/singleton/chocolate/ChocolateBoiler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/singleton/chocolate/ChocolateController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/singleton/classic/Singleton.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/singleton/dcl/Singleton.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/singleton/dcl/SingletonClient.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/singleton/stat/Singleton.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/singleton/stat/SingletonClient.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/singleton/subclass/CoolerSingleton.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/singleton/subclass/HotterSingleton.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/singleton/subclass/Singleton.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/singleton/subclass/SingletonTestDrive.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/singleton/threadsafe/Singleton.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/state/gumball/GumballMachine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/state/gumball/GumballMachineTestDrive.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/state/gumballstate/GumballMachine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/state/gumballstate/GumballMachineTestDrive.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/state/gumballstate/HasQuarterState.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/state/gumballstate/NoQuarterState.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/state/gumballstate/SoldOutState.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/state/gumballstate/SoldState.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/state/gumballstate/State.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/state/gumballstatewinner/GumballMachine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/state/gumballstatewinner/GumballMachineTestDrive.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/state/gumballstatewinner/HasQuarterState.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/state/gumballstatewinner/NoQuarterState.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/state/gumballstatewinner/SoldOutState.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/state/gumballstatewinner/SoldState.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/state/gumballstatewinner/State.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/state/gumballstatewinner/WinnerState.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/strategy/DecoyDuck.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/strategy/Duck.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/strategy/FakeQuack.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/strategy/FlyBehavior.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/strategy/FlyNoWay.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/strategy/FlyRocketPowered.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/strategy/FlyWithWings.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/strategy/MallardDuck.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/strategy/MiniDuckSimulator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/strategy/MiniDuckSimulator1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/strategy/ModelDuck.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/strategy/MuteQuack.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/strategy/Quack.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/strategy/QuackBehavior.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/strategy/RedHeadDuck.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/strategy/RubberDuck.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/strategy/Squeak.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/templatemethod/applet/AppletSource.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/templatemethod/applet/MyApplet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/templatemethod/barista/BeverageTestDrive.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/templatemethod/barista/CaffeineBeverage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/templatemethod/barista/CaffeineBeverageWithHook.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/templatemethod/barista/Coffee.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/templatemethod/barista/CoffeeWithHook.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/templatemethod/barista/Tea.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/templatemethod/barista/TeaWithHook.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/templatemethod/frame/MyFrame.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/templatemethod/simplebarista/Barista.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/templatemethod/simplebarista/Coffee.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/templatemethod/simplebarista/Tea.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/templatemethod/sort/Duck.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/headfirst/templatemethod/sort/DuckSortTestDrive.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HF_DP.iml" afterPath="$PROJECT_DIR$/HF_DP.iml" />
     </list>
     <ignored path="HF_DP.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/bin/" />
+    <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -427,7 +425,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
@@ -441,13 +439,13 @@
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="10" column="4" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+              <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -496,6 +494,13 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
   </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="101" />
     <option name="y" value="29" />
@@ -527,6 +532,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="DesignPatterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HF_DP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DesignPatterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="headfirst" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -805,6 +828,14 @@
       <updated>1470748110552</updated>
       <workItem from="1470748114067" duration="9000" />
     </task>
+    <task id="LOCAL-00001" summary="Add Maven support">
+      <created>1486602740454</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1486602740454</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -812,7 +843,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="101" y="29" width="1440" height="825" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -823,7 +854,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3287858" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3287858" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -847,6 +878,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add Maven support" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Maven support" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -856,18 +891,10 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="4" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" column="4" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+          <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
           <folding />
         </state>
       </provider>
@@ -880,6 +907,14 @@
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="4" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
+          <folding />
         </state>
       </provider>
     </entry>
